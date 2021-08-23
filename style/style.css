@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+section{
+    padding-top: 6em;
+    display: block;
+}
+.bg-black{
+    background-color: black;
+}
+.font-handwriting{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    font-weight: bold;
+}
+.font-header{
+    font-family: 'Enriqueta', serif;
+    font-weight: bold;
+    
+}
